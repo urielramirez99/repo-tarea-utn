@@ -1,0 +1,55 @@
+h1{
+    color: rgb(2, 2, 107);
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(161, 161, 161);
+    height: 100px;
+    padding: 10px;
+
+}
+
+header nav{ 
+    padding: 100px;
+    align-items: center;
+    display: flexbox;
+}
+
+header nav a{
+    color: black;
+    height: 100px;
+    padding-left: 50px;
+    text-decoration: none;
+}
+
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+section {
+    width: 150px;
+    padding: 0;
+    margin: 50;
+    box-sizing: border-box;
+    
+}
+
+div{
+    
+    
+    align-items: center;
+    
+    padding: 10px;
+
+}
+
+section label{
+    background-color: aqua;
+}
+
